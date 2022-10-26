@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Lucas!
-- 👀 I’m interested in learning web development to join the market web
+- 👀 I’m interested in learning web development to join the web market
 - 🌱 I’m currently learning HTML5, CSS3 and JavaScript languages
 
 <!---
