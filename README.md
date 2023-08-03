@@ -1,10 +1,10 @@
 
-### Olá, eu sou o Lucas! ✌️
+### Hi, I'm Lucas! ✌️
 
-- 🏠 Resido em Rancharia, interior de SP.
-- 🏀 Meus hobbies são jogar basquete, futvolêi, academia e jogos online.
-- 📚 Estou estudando desenvolvimento web na Trybe sendo da turma 33.
-- 🚀 Atualmente estou aprofundando os estudos em React.
+- 🏠 I live in Rancharia, a town in the interior of São Paulo, Brazil.
+- 🏀 My hobbies are playing basketball, beach volleyball, going to the gym, and playing online games.
+- 📚 I am studying web development at Trybe as part of class 33.
+- 🚀 Currently, I am diving deeper into React studies.
 
 ---
 
