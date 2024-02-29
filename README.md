@@ -4,7 +4,7 @@
 - 🏠 I live in the interior of São Paulo, Brazil.
 - 🏀 My hobbies are playing basketball, beach volleyball, going to the gym, and playing online games.
 - 📚 I am studying web development at Trybe as part of class 33.
-- 🚀 Currently, I am diving deeper into React studies.
+- 🚀 Currently, I am working in a Marketing Company as Front-End Developer.
 
 ---
 
