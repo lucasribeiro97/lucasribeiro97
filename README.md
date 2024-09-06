@@ -2,8 +2,8 @@
 ### Hi, I'm Lucas! ✌️
 
 - 🏠 I live in the interior of São Paulo, Brazil.
-- 📚 I am studying web development at Trybe as part of class 33.
 - 🚀 Currently, I am working at Liquid AI as Full Stack Developer.
+- 📚 Studying...
 
 ---
 
