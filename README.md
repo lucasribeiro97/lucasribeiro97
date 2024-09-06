@@ -2,7 +2,6 @@
 ### Hi, I'm Lucas! ✌️
 
 - 🏠 I live in the interior of São Paulo, Brazil.
-- 🏀 My hobbies are playing basketball, beach volleyball, going to the gym, and playing online games.
 - 📚 I am studying web development at Trybe as part of class 33.
 - 🚀 Currently, I am working at Liquid AI as Full Stack Developer.
 
