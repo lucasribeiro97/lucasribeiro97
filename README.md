@@ -3,7 +3,7 @@
 
 - 🏠 I live in the interior of São Paulo, Brazil.
 - 🚀 Currently, I am working at Liquid AI as Full Stack Developer.
-- 📚 Studying...
+- 📚 Always studying...
 
 ---
 
